@@ -1,0 +1,27 @@
+.sideBar {
+    /*
+    background-color: #ff0000;
+
+    margin: 0;
+    padding: 0;
+    top: 0px;
+    left: 0px;
+
+    width: 100%;
+    */
+    
+    background-color: #db2525;
+    color: black;
+    position: relative;
+    height: 100%;
+
+}
+
+.boxShadowPro {
+    box-shadow: 0 4px 19px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text {
+    color: Black;
+}
+

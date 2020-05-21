@@ -1,0 +1,87 @@
+.menusCustomer {
+    position: relative;
+    margin: 2% 5%;
+    width: 90%;
+}
+
+.menusCustomerSpecific {
+
+}
+
+.pedirComida {    
+    position: relative;
+    margin: 0% 5%;
+    width: 90%;    
+}
+
+.noMenusYetClass {
+    position: relative;
+    margin: 5% 0%;
+    width: 100%;
+}
+
+.menuCard {
+    position: relative;
+    margin: 30px 0%;
+}
+
+.mealCont{
+    margin: 0px 15px;
+}
+
+.mealContlabel{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+.buttonCard {    
+    font-weight: bold;
+}
+
+.imgOverlayCard {
+    color: white;
+    font-weight: bold;
+
+    position: absolute;
+    margin: 5% 5%;
+    width: 90%;
+}
+
+.textBoxRed {
+    background-color: #db2525;
+    width: 20%;
+}
+
+.textBoxBlue {
+    background-color: #2531db;
+    width: auto;
+    
+    position: relative;
+    margin: 45% 0;
+
+    text-align: center;
+}
+
+.boxShadowPro {
+    box-shadow: 0 4px 19px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxBorderPro {
+    border: medium solid black;
+
+}
+
+.normalCursor {
+    cursor: crosshair;
+}
+
+
+
+

@@ -1,0 +1,52 @@
+.navBar {
+    /*
+    margin: 0;
+    padding: 0;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    */
+    /*
+    overflow: hidden;
+    */
+
+    margin: 0;
+    padding: 0;
+    position: sticky;
+    top: auto;
+}
+
+.boxShadowPro {
+    box-shadow: 0 4px 19px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.menus {
+    text-align: right;
+}
+
+.userState {
+    font-size: x-small;
+    text-align: right;
+}
+
+.userFont {
+    font-style: italic;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sticky {
+    position: fixed;
+    top: 300px;
+    /* We need to change this value */
+}
+
+.fixed {
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    top: 0;
+    background: #333;
+    padding: 10px 0;
+    color: #fff;
+}

@@ -1,0 +1,8 @@
+.ordersClass{
+    position: absolute;
+    height: 50vh;
+    width: 50vw;
+    top: 20vh;
+    left: 25vw;
+    background-color: darkseagreen;
+}

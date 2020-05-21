@@ -1,0 +1,28 @@
+.footer {     
+    position: relative;
+    width: 100%;
+    bottom: 0;   
+    
+    /*
+    position: fixed;
+    */
+}
+
+.connected {
+    background-color: #CC0000;
+    position: relative;
+    padding: 8px;
+}
+
+.content {
+    background-color: #EDEFF1;
+}
+
+.copyrightFooter {
+    background-color: #BEBFC1;
+    width: 100%;
+}
+
+.h5Text {
+    border-bottom: 2px double #CC0000;
+}

@@ -1,0 +1,184 @@
+.menusCook {
+    /*
+    position: absolute;
+    top: 15vh;
+    left: 15vw;
+    height: 75vh;
+    width: 75vw;
+    */
+    position: relative;
+    margin: 2% 5%;
+    width: 90%;    
+}
+
+.createMenu {
+
+}
+
+.menuForm {
+    position: relative;
+    margin: 30px 5%;
+    width: 90%;
+}
+
+.mealForm {
+    position: relative;
+    margin: 25px 5%;
+    width: 90%;
+}
+
+.menuFormSpecific {
+    position: relative;
+    margin: 0% 0% 25px 0%;
+    width: 100%;
+}
+
+.myMenus {    
+    position: relative;
+    margin: 0% 5%;
+    width: 90%;    
+}
+
+.noMenusYetClass {
+    position: relative;
+    margin: 5% 0%;
+    width: 100%;
+}
+
+.menuCard {
+    position: relative;
+    margin: 30px 0%;
+}
+
+.mealCont{
+    margin: 0px 15px;
+}
+
+.mealContlabel{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+
+
+
+.buttonForm {
+    position: relative;
+    margin: 0% 5%;
+    width: 90%;
+}
+
+.buttonFormSpecific {
+    position: relative;
+    margin: 0% 15%;
+    width: 70%;
+}
+
+.buttonCard {    
+    font-weight: bold;
+}
+
+.boxShadowPro {
+    box-shadow: 0 4px 19px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxBorderPro {
+    border: medium solid black;
+
+}
+
+.normalCursor {
+    cursor: crosshair;
+}
+
+
+
+
+
+
+
+.menuCookContainer {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(auto-fill, 100%);
+    border: 1px solid black;
+    padding: 5%;
+    max-height: auto;
+    margin-bottom: 50px;
+}
+
+.menuMealsCookContainer{
+    display: grid;
+    grid-gap: 6px;
+    grid-template-columns: repeat(auto-fill, 30%);
+}
+
+.menuNPDform{
+    height: auto;
+    margin: 50px;
+}
+
+
+
+
+
+.grid-item {
+    opacity: 0.2;
+    border: 1px solid #4099ff;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: #f5f5f5;
+    color: #fff;
+}
+
+
+
+.addmenuinputgeneric {
+    display: inline-block;
+    margin: 5px;
+    width: 33%;
+    float: left;
+}
+
+.niceeffect{
+    resize: none;
+}
+
+.addmenulabelgeneric{
+    display: inline-block;
+    margin: 5px;
+    float: left;
+    clear: left;
+    width: 33%;
+    text-align: right;
+}
+.amlgBottom{
+    margin-bottom: 10%;
+}
+
+.DMmealRemove{
+    float: right;
+}
+
+.DMgeneric{
+    margin: 2px;
+}
+
+.DMdescription{
+    width: 100%;
+    resize: vertical;
+
+}
+
+.activateMenuBtn{
+    float: right;
+    background-color: brown;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 6px;
+    width: 30%;
+    height: 5vh;
+}

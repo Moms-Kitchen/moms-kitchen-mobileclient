@@ -1,0 +1,64 @@
+.billing{
+    position: relative;
+    margin: 2% 5%;
+    width: 90%;
+}
+
+.carritoCompras {
+    position: relative;
+    margin: 0% 5%;
+    width: 90%;  
+}
+
+.menuCard {
+    position: relative;
+    margin: 30px 0%;
+}
+
+.dataCont{
+    position: relative;
+    margin: 0px 10%;
+}
+
+.tittleCont{
+    position: relative;
+    margin: 3% 0;
+}
+
+.valorTotal {
+    text-align: right;
+}
+
+
+
+
+
+
+.buttonForm {
+    position: relative;
+    margin: 30px 5%;
+    width: 90%;
+}
+
+.buttonFormSpecific {
+    position: relative;
+    margin: 0% 15%;
+    width: 70%;
+}
+
+.buttonCard {    
+    font-weight: bold;
+}
+
+.boxShadowPro {
+    box-shadow: 0 4px 19px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxBorderPro {
+    border: medium solid black;
+
+}
+
+.normalCursor {
+    cursor: crosshair;
+}

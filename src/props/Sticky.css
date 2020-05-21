@@ -1,0 +1,15 @@
+
+
+.header {
+    height: 80px;
+    background: blue;
+    margin: 0px;
+}
+
+.navbar {
+    position: sticky;
+    top: 80px;
+    height: 70px;
+    background: gray;
+    margin: 0px;
+}

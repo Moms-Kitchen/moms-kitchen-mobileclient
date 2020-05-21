@@ -1,0 +1,22 @@
+.menusCustomerContainer {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(auto-fill, 30%);
+}
+
+.menusCustomerClass{
+    position: absolute;
+    top: 15vh;
+    left: 15vw;
+    height: 75vh;
+    width: 75vw;
+}
+
+.MCmenuTile{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px 5% 3px 5%;
+    min-width: 200px;
+    box-sizing: border-box;
+}
+

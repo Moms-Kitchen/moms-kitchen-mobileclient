@@ -1,0 +1,16 @@
+.myheaderClass{
+    height: 10vh;
+    width: 100vw;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: darkgray;
+    text-align: center;
+    background-image: url(../img/banner/Banner-Logo.jpg) ;
+    background-size: contain;
+}
+
+.generic{
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,43 @@
+.root {
+    height: 100vh;
+}
+
+.image {
+    background-image: url("../img/background/Background-LogIn.gif");
+    background-repeat: no-repeat;
+    background-color: #db2525ee;
+    background-size: cover;
+    background-position: right;
+}
+
+.text {
+    margin: 64px 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    margin: 8px;
+    height: 150px;
+    width: 150px;
+}
+
+.form {
+    width: 100%;
+    margin: 8px;
+}
+
+.submitButton {
+    margin: 24px 0px 16px;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 8px;
+}
+
+.backtologin {
+    right: 8px;
+    margin: 8px;
+}
